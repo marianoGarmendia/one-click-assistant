@@ -2,7 +2,7 @@ import express from "express";
 
 import cors from "cors";
 
-import { translateRouter } from "./routes/translate.route.js";
+import { assistantRouter } from "./routes/assistant.route.js";
 
 const PORT = process.env.PORT || 3000;
 
@@ -17,7 +17,7 @@ app.use(
 
 app.use(express.json());
 app.use(express.text());
-app.use(translateRouter);
+app.use(assistantRouter);
 
 app.listen(PORT, () => {
   console.log(`Escuchando en el puerto: ${PORT}`);

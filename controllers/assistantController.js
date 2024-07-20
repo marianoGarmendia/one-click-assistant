@@ -9,7 +9,7 @@ const mistral = createMistral({
 
 const prompt = "El texto a evaluar es el siguiente: ";
 
-export async function translateText({ textToEvaluated }) {
+export async function assistantText({ textToEvaluated }) {
   const { text } = await generateText({
     model: mistral("mistral-large-latest"),
     prompt: `${prompt}${textToEvaluated}`,
