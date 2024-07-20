@@ -27,7 +27,7 @@ En la parte superior aparecerá en unos segundos la información generada por un
 ## 🚀 Instalación
 
 Clona el repositorio de github     
-> git clone https://github.com/tu-usuario/tu-proyecto.git
+> git clone git@github.com:marianoGarmendia/one-click-assistant.git
 
  Ve a tu navegador, haz click en los 3 puntos superior derecha :
 
