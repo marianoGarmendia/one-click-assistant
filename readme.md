@@ -2,6 +2,8 @@
 
 ![Banner](./one_click_assistant.png.png)
 
+> ## Esta es la parte del BACKEND
+
 ## 📖 Descripción
 
 ### ¿ Pensaste en tener la información que necesitas con tan sólo 1 Click ?
@@ -27,7 +29,7 @@ En la parte superior aparecerá en unos segundos la información generada por un
 ## 🚀 Instalación
 
 Clona el repositorio de github     
-> git clone git@github.com:marianoGarmendia/one-click-assistant.git
+> git clone git@github.com:marianoGarmendia/one-click-assistant-frontend.git
 
  Ve a tu navegador, haz click en los 3 puntos superior derecha :
 
