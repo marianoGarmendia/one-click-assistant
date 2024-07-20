@@ -10,7 +10,7 @@ Esto es lo que hace literalmente la extensión de chrome OneClick Assistant.
 
 ### ¿Cómo funciona?
 
-  accede al sitio web que estés navegando y te ayuda a comprender y obtener mas información sobre temas relacionados principalmente con el desarrollo web o de software.
+  accede al sitio web que estés navegando y te ayuda a comprender y obtener mas información sobre temas relacionados principalmente con el desarrollo web o de software, además responde en español.
 
 
 ### ¿Como empiezo a usarla?
